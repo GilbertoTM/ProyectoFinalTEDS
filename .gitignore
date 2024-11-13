@@ -1,0 +1,17 @@
+# Ignorar el entorno virtual
+venv/
+
+# Ignorar archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar configuraciones del editor
+.vscode/
+.idea/
+
+# Ignorar archivos compilados de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar el archivo requirements si no quieres subirlo al repositorio
+# requirements.txt
